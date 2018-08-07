@@ -34,8 +34,6 @@ npm run dev
 
 
 
-<<<<<<< HEAD
-=======
 ## 部分页面图
 
 ![](screen/1.png)
@@ -47,4 +45,3 @@ npm run dev
 ![](screen/4.png)
 
 ![](screen/5.png)
->>>>>>> 添加预览图
